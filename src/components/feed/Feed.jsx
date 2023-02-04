@@ -1,6 +1,7 @@
 import React, { useEffect } from "react"
 import Share from "../share/Share"
 import "./feed.css"
+
 function Feed() {
   return (
     <div className="feed">
